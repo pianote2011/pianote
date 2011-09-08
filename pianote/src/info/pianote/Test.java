@@ -8,6 +8,7 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("Test");
 		System.out.println("lolTEST");
+		System.out.println("jetzt als marf416");
 	}
 
 }
