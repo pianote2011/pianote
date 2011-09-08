@@ -1,4 +1,4 @@
-package net.pianote;
+package info.pianote;
 
 public class Test {
 
